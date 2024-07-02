@@ -2,7 +2,7 @@
 <h3 align="center">I am an undergraduate student and a Full-stack Developer. I have developed strong interpersonal and technological skills. I am a confident and passionate person, willing to take risks and challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathisubodhi&label=Profile%20views&color=0e75b6&style=flat" alt="sarathisubodhi" /> </p>
-
+---
 - 👨‍💻 All of my projects are available at [https://www.figma.com/files/team/1347850329864904828/user/1276969078318497623?fuid=1276969078318497623](https://www.figma.com/files/team/1347850329864904828/user/1276969078318497623?fuid=1276969078318497623)
 
 - 📫 How to reach me **sarathisubodhi420@gmail.com**
