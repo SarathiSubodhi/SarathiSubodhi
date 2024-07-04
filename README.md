@@ -6,7 +6,7 @@
 </div>
 
 
-<h3 align="center">I am an undergraduate student and a Full-stack Developer. I have developed strong interpersonal and technological skills. I am a confident and passionate person, willing to take risks and challenges.</h3>
+<h3 align="center">I am an undergraduate and Full-stack Developer. I have developed strong interpersonal and technological skills. I am a confident and passionate person, willing to take risks and challenges.</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarathisubodhi&label=Profile%20views&color=0e75b6&style=flat" alt="sarathisubodhi" /> </p>
