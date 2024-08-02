@@ -1,7 +1,9 @@
 <h1 align="center"><b>Hi , I'm Sarathi Subodhi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--- snake -->
 <div align="center">
-  <img src="/resources/grid-snake.svg" alt="snake">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake">
+  </a>
 </div>
 
 
